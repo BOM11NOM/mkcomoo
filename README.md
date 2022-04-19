@@ -38,9 +38,9 @@ end)
 
         
 
-local SOMEXHUBMODILE = Instance.new("ScreenGui")
-local MODILEGUISOMEXHUB = Instance.new("TextButton")
-local MODILEGUISOMEXHUBHUI = Instance.new("UICorner")
+local mkHUBMODILE = Instance.new("ScreenGui")
+local MODILEGUIMKXHUB = Instance.new("TextButton")
+local MODILEGUImkXHUBHUI = Instance.new("UICorner")
 local MODILEMAGE = Instance.new("ImageLabel")
 SOMEXHUBMODILE.Name = "MKXHUBMODILE"
 SOMEXHUBMODILE.Parent = game.CoreGui
@@ -630,7 +630,7 @@ function Dino:CreateWindow(dinotitle)
 
                 SliderHolderUIStroke.Name = "SliderHolderUIStroke"
                 SliderHolderUIStroke.Parent = SliderHolder
-                SliderHolderUIStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+                SliderHolderUIStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Border]]]]]]]]]
                 SliderHolderUIStroke.Color = Color3.fromRGB(35, 78, 130)
                 SliderHolderUIStroke.LineJoinMode = Enum.LineJoinMode.Round
                 SliderHolderUIStroke.Thickness = 1.6
